@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/m/Desktop/C Task/main'
+relocations:     []
+...
